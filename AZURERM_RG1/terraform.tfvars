@@ -14,4 +14,10 @@ rg = {
         location ="centralindia"
     }
 
+
+rg3 ={
+
+        name = "amitrg3"
+        location ="centralindia"
+    }
 }
